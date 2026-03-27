@@ -53,7 +53,7 @@ Highly motivated Computer Science & Engineering student at Chittagong University
 - **Phone:** +8801576525872 / +8801908382082  
 - **Location:** Chattogram, Bangladesh 🌏  
 - **LinkedIn:** [linkedin.com/in/your-linkedin](https://www.linkedin.com/)  
-- **Portfolio:** [Your Portfolio Link](https://maahfuzdev.github.io/my-portfolio/)  
+- **Portfolio:** [Portfolio Link](https://maahfuzdev.github.io/my-portfolio/)  
 - **GitHub:** [GitHub Profile](https://github.com/maahfuzdev)  
 
 ---
