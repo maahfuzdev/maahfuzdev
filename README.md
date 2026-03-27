@@ -36,7 +36,7 @@ GPS-based bike rental management mobile app built with Flutter and Firebase.
 ### [Event Management System](https://github.com/Mahfuz21-04050/Event-Management-System)
 Complete event booking platform with React, Node.js, MongoDB, and JWT authentication.
 
-[View All Projects](https://github.com/Mahfuz21-04050?tab=repositories)
+[View All Projects](https://github.com/maahfuzdev?tab=repositories)
 
 ---
 
