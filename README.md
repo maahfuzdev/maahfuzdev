@@ -66,7 +66,7 @@ Highly motivated Computer Science & Engineering student at Chittagong University
 
 ### 🔥 Extra Badges & Metrics
 ![Followers](https://img.shields.io/github/followers/maahfuzdev?style=social)  
-![Total Repos](https://img.shields.io/github/repo-count/maahfuzdev?style=flat-square&color=blue)  
+![Total Repos](https://img.shields.io/github/public-repo-count/maahfuzdev?style=flat-square&color=blue)  
 ![Total Stars](https://img.shields.io/github/stars/maahfuzdev?style=flat-square&color=yellow)  
 ![Top Language](https://img.shields.io/github/languages/top/maahfuzdev?style=flat-square&color=green)
 
