@@ -38,11 +38,11 @@ Highly motivated Computer Science & Engineering student at Chittagong University
 ### Frontend Projects
 - **[Weather App](https://github.com/maahfuzdev/Weather-App)** – Weather forecasting application (HTML, CSS, JS, Weather API)  
 - **[Language Translator Website](https://github.com/maahfuzdev/Language-Translator-Website)** – Multi-language translation website with voice output feature (HTML, CSS, JS, Google Translate API Integration)  
-- **Temperature Converter** – Interactive temperature conversion tool (HTML, CSS, JS)  
-- **Tailwind CSS Practice** – Collection of UI components built with Tailwind CSS  
-- **Educational Form** – Responsive educational application form (HTML, CSS, Form Validation)  
-- **Modern Newspaper** – Responsive newspaper layout design (HTML, Bootstrap, Grid Layout)  
-- **React Project 1** – First React.js project with modern UI components  
+- Temperature Converter — Interactive temperature conversion tool (HTML, CSS, JS)  
+- Tailwind CSS Practice — Collection of UI components built with Tailwind CSS  
+- Educational Form — Responsive educational application form (HTML, CSS, Form Validation)  
+- Modern Newspaper — Responsive newspaper layout design (HTML, Bootstrap, Grid Layout)  
+- React Project 1 — First React.js project with modern UI components  
 
 [View All Projects](https://github.com/maahfuzdev?tab=repositories)
 
@@ -58,9 +58,18 @@ Highly motivated Computer Science & Engineering student at Chittagong University
 
 ---
 
-*"The beautiful thing about learning is that no one can take it away from you."* – B.B. King
+## 📊 GitHub Stats & Activity
+
+![Mahfuz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maahfuzdev&show_icons=true&theme=radical&count_private=true&hide=prs)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maahfuzdev&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maahfuzdev&theme=radical&hide_border=false)  
+
+### 🔥 Extra Badges & Metrics
+![Followers](https://img.shields.io/github/followers/maahfuzdev?style=social)  
+![Total Repos](https://img.shields.io/github/repos/maahfuzdev?style=flat-square&color=blue)  
+![Total Stars](https://img.shields.io/github/stars/maahfuzdev?style=flat-square&color=yellow)  
+![Top Language](https://img.shields.io/github/languages/top/maahfuzdev?style=flat-square&color=green)
 
 ---
 
-## 📌 GitHub Stats
-![Mahfuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=maahfuzdev&show_icons=true&theme=radical)
+*"The beautiful thing about learning is that no one can take it away from you."* – B.B. King
