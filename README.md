@@ -18,6 +18,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=maahfuzdev&label=Profile+Views&color=2D9CDB&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/maahfuzdev?label=Followers&style=flat-square&color=2D9CDB)
 ![GitHub stars](https://img.shields.io/github/stars/maahfuzdev?affiliations=OWNER&style=flat-square&color=F7B731&label=Total+Stars)
+[![wakatime](https://wakatime.com/badge/user/6013d2d0-99e2-42e6-a7d6-148bba563e01.svg)](https://wakatime.com/@maahfuzdev)
 
 <br/>
 
@@ -102,6 +103,8 @@ status     : Open to full-time roles & freelance projects
 ## ⏱️ WakaTime Coding Stats
 
 <div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/6013d2d0-99e2-42e6-a7d6-148bba563e01.svg)](https://wakatime.com/@maahfuzdev)
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=maahfuzdev&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@maahfuzdev)
 
@@ -312,52 +315,6 @@ status     : Open to full-time roles & freelance projects
 </picture>
 
 </div>
-
-<details>
-<summary><b>🔧 Snake Animation Setup Guide</b></summary>
-<br/>
-
-1. Create a repo named exactly `maahfuzdev` (same as your GitHub username)
-2. Inside the repo, create `.github/workflows/snake.yml` with this content:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Go to **Actions** tab → **"Generate Snake Animation"** → **"Run workflow"**
-
-</details>
 
 ---
 
