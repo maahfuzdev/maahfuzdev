@@ -44,7 +44,7 @@
 ### 🎵 Now Playing on Spotify
 [![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31mpkjiezgxfljbpycpbfl3okoiu&count=5&unique=true)](https://open.spotify.com)
 
-> ⚙️ *Setup: Deploy [novatorem](https://github.com/novatorem/novatorem) on Vercel with your Spotify credentials and replace the URL above.*
+> 
 
 </div>
 
