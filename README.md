@@ -273,9 +273,9 @@ status     : Open to full-time roles & freelance projects
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maahfuzdev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maahfuzdev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maahfuzdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maahfuzdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maahfuzdev&theme=tokyonight&hide_border=true)
 
