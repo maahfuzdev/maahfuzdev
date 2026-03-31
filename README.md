@@ -1,24 +1,18 @@
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  CAPSULE RENDER HEADER                   -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<!-- CAPSULE RENDER HEADER -->
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Md.%20Mahfuzur%20Rahman&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Flutter%20%7C%20CSE%20@%20CUET&descAlignY=58&descSize=18)
 
 </div>
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  ANIMATED TYPING BANNER                  -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<!-- ANIMATED TYPING BANNER -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahfuz;Full+Stack+MERN+Developer;Flutter+%26+Mobile+App+Developer;Building+Smart+%26+Scalable+Apps;Open+to+Full-Time+%26+Freelance+Roles)](https://git.io/typing-svg)
 
 </div>
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  BADGES ROW                               -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<!-- BADGES -->
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maahfuzdev&label=Profile+Views&color=2D9CDB&style=flat-square)
@@ -36,23 +30,18 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  SPOTIFY NOW PLAYING                      -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<!-- SPOTIFY NOW PLAYING -->
 <div align="center">
 
-### 🎵 Now Playing on Spotify
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31mpkjiezgxfljbpycpbfl3okoiu&count=5&unique=true)](https://open.spotify.com)
+### 🎵 Recently Played on Spotify
 
-> 
+[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31mpkjiezgxfljbpycpbfl3okoiu&count=5&unique=true)](https://open.spotify.com)
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  ABOUT ME                                 -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME -->
 ## 👨‍💻 About Me
 
 ```yaml
@@ -67,9 +56,7 @@ status     : Open to full-time roles & freelance projects
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  TECH STACK                               -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
 ## 🛠️ Tech Stack & Skills
 
 ### 🖥️ Frontend
@@ -111,24 +98,18 @@ status     : Open to full-time roles & freelance projects
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  WAKATIME STATS                           -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<!-- WAKATIME -->
 ## ⏱️ WakaTime Coding Stats
 
 <div align="center">
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=maahfuzdev&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@maahfuzdev)
 
-> ⚙️ *Setup: Create a free account at [wakatime.com](https://wakatime.com), install the IDE plugin, and replace `maahfuzdev` above with your WakaTime username.*
-
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  FEATURED PROJECTS                        -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<!-- FEATURED PROJECTS -->
 ## 🌟 Featured Projects
 
 ### 🧠 Enterprise Web Applications
@@ -157,7 +138,6 @@ status     : Open to full-time roles & freelance projects
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](#)
 [![Demo](https://img.shields.io/badge/Live-Demo-2D9CDB?style=flat-square&logo=vercel)](#)
-
 </details>
 
 <details>
@@ -182,7 +162,6 @@ status     : Open to full-time roles & freelance projects
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](#)
 [![Demo](https://img.shields.io/badge/Live-Demo-2D9CDB?style=flat-square&logo=vercel)](#)
-
 </details>
 
 <details>
@@ -206,7 +185,6 @@ status     : Open to full-time roles & freelance projects
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](#)
 [![Demo](https://img.shields.io/badge/Live-Demo-2D9CDB?style=flat-square&logo=vercel)](#)
-
 </details>
 
 <details>
@@ -229,7 +207,6 @@ status     : Open to full-time roles & freelance projects
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](#)
 [![Demo](https://img.shields.io/badge/Live-Demo-2D9CDB?style=flat-square&logo=vercel)](#)
-
 </details>
 
 <details>
@@ -253,7 +230,27 @@ status     : Open to full-time roles & freelance projects
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](#)
 [![Demo](https://img.shields.io/badge/Live-Demo-2D9CDB?style=flat-square&logo=vercel)](#)
+</details>
 
+<details>
+<summary><b>🧺 Smart Laundry Solution</b> — IoT-integrated cloud management</summary>
+<br/>
+
+> IoT-powered laundry management system with real-time machine status and Firebase cloud sync.
+
+**Key Features:**
+- 📡 Real-time machine status via Firebase
+- 📲 Push notifications for cycle completion
+- 📆 Slot booking and scheduling
+- 📊 Usage analytics and billing dashboard
+
+**Tech Stack:**
+
+![MERN](https://img.shields.io/badge/MERN-Stack-20232A?style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
+![IoT](https://img.shields.io/badge/IoT-Integration-00979D?style=flat-square)
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](#)
 </details>
 
 ### 📱 Mobile Applications
@@ -268,9 +265,7 @@ status     : Open to full-time roles & freelance projects
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  GITHUB ANALYTICS                         -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<!-- GITHUB ANALYTICS -->
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -305,9 +300,7 @@ status     : Open to full-time roles & freelance projects
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  SNAKE ANIMATION                          -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<!-- SNAKE ANIMATION -->
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -319,8 +312,6 @@ status     : Open to full-time roles & freelance projects
 </picture>
 
 </div>
-
-> ⚙️ *Setup: Create a GitHub Actions workflow in your profile repo (`.github/workflows/snake.yml`) to auto-generate the snake SVG. See setup guide below.*
 
 <details>
 <summary><b>🔧 Snake Animation Setup Guide</b></summary>
@@ -346,7 +337,6 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
       - name: Generate snake SVG
         uses: Platane/snk/svg-only@v3
@@ -365,15 +355,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-3. Run the workflow manually once → snake SVG will appear on your profile!
+3. Go to **Actions** tab → **"Generate Snake Animation"** → **"Run workflow"**
 
 </details>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  CURRENTLY WORKING ON                     -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<!-- CURRENTLY WORKING ON -->
 ## 🚀 Currently Working On
 
 - ⚙️ Microservices architecture with Node.js and Docker
@@ -382,9 +370,7 @@ jobs:
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  FOOTER                                   -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<!-- FOOTER -->
 ## 💬 Let's Work Together
 
 I'm open to **full-time roles**, **freelance projects**, and **open-source collaborations** in full stack web development.
