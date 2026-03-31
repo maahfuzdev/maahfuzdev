@@ -1,133 +1,92 @@
-<h1 align="center">Hi 👋, I'm Mahfuz</h1>
-<h3 align="center">🚀 Full Stack MERN & Flutter Developer | CSE @ CUET</h3>
+<div align="center">
 
-<p align="center">
-Building <b>Smart • Secure • Scalable</b> Applications | 20+ Real-World Projects
-</p>
+# Md. Mahfuzur Rahman
 
----
+**Full Stack Developer · MERN · Flutter · CSE @ CUET**
 
-## 🌐 Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-black?style=flat-square&logo=vercel)](https://maahfuzdev.github.io/my-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mahfuzur-rahman-cse)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/maahfuzdev)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maahfuz2021@gmail.com)
 
-<p align="center">
-
-<a href="https://github.com/maahfuzdev">
-<img src="https://img.shields.io/badge/GitHub-maahfuzdev-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/md-mahfuzur-rahman-cse">
-<img src="https://img.shields.io/badge/LinkedIn-Md%20Mahfuzur%20Rahman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://maahfuzdev.github.io/my-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Live%20Website-black?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:maahfuz2021@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-🎓 **CSE Undergraduate** — Chittagong University of Engineering & Technology (CUET)  
-💻 **Full Stack Developer** — MERN (MongoDB, Express, React, Node.js)  
-📱 **Cross-Platform Mobile Developer** — Flutter & Dart  
-🔐 **Specialized In** — Real-time Systems, Cloud Integration, API Development  
-🚀 **Portfolio** — 20+ Production-Ready Projects with 5K+ GitHub Stars  
-📊 **Academic Excellence** — CGPA: 3.15 / 4.00
+I'm a **Full Stack Developer** specializing in the MERN stack and cross-platform mobile development with Flutter. Currently pursuing my B.Sc. in Computer Science & Engineering at **Chittagong University of Engineering & Technology (CUET)** with a CGPA of **3.15/4.00**.
+
+I build production-ready web and mobile applications — with a focus on real-time systems, scalable architecture, and clean API design. My work spans **20+ end-to-end projects** covering healthcare, fintech, IoT, and e-commerce domains.
 
 ---
 
-## 💼 Professional Skills
+## Technical Skills
 
-### 🎯 Core Competencies
-- **Full Stack Web Development** — End-to-end application architecture & deployment
-- **Mobile App Development** — Cross-platform solutions with Flutter
-- **Database Management** — SQL & NoSQL optimization
-- **Cloud & DevOps** — AWS, Firebase, Docker containerization
-- **Real-time Systems** — WebSockets, live monitoring & notifications
-- **API Development** — RESTful & modern API design patterns
+**Frontend**
+`React.js` `Next.js` `JavaScript (ES6+)` `Tailwind CSS` `Bootstrap` `HTML5/CSS3`
 
-### 🖥️ Frontend Technologies
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nextjs"/>
+**Backend & Databases**
+`Node.js` `Express.js` `MongoDB` `MySQL` `Firebase` `REST API` `Socket.io`
 
-### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,python"/>
+**Mobile**
+`Flutter` `Dart` `Android Studio`
 
-### 📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio"/>
+**DevOps & Tools**
+`Git` `GitHub` `Docker` `AWS` `Linux` `Postman` `VS Code`
 
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=js,python,java,c,cpp,dart"/>
-
-### ☁️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman"/>
+**Languages**
+`JavaScript` `Python` `Java` `C/C++` `Dart`
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🧠 Full Stack Enterprise Systems
+### Enterprise Web Applications
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **Online Exam System** | Real-time monitoring with secure proctoring | MERN, Socket.io, JWT |
-| **Event Management Platform** | Scalable booking system with payment integration | MERN, Stripe, Nodemailer |
-| **Smart Laundry Solution** | IoT-integrated firebase cloud system | MERN, Firebase, Real-time DB |
-| **Personal Finance Manager** | Analytics dashboard with expense tracking | MERN, Chart.js, MongoDB |
-| **Doctor Appointment System** | Smart scheduling with SMS notifications | MERN, Twilio, Express |
-| **Cricket Score Keeper** | Live scoring web app with leaderboards | React, Node, Socket.io |
+| Project | Description | Stack |
+|---|---|---|
+| [Online Exam System](#) | Real-time proctored examination with live monitoring and anti-cheating measures | MERN, Socket.io, JWT |
+| [Event Management Platform](#) | Full-featured booking and ticketing system with payment gateway integration | MERN, Stripe, Nodemailer |
+| [Doctor Appointment System](#) | Smart scheduling platform with automated SMS reminders | MERN, Twilio, Express |
+| [Personal Finance Manager](#) | Expense analytics dashboard with visual reporting and budget tracking | MERN, Chart.js |
+| [Smart Laundry Solution](#) | IoT-integrated laundry management with Firebase real-time database | MERN, Firebase |
+| [Cricket Score Keeper](#) | Live scoring web app with leaderboards and match history | React, Node.js, Socket.io |
 
-### 📱 Mobile Applications
-- 🚲 **Smart Bike Management App** — GPS tracking, rental system, user authentication
-- 💱 **Currency Converter** — Real-time rates, offline caching, clean UI
-- 📍 **Location-Based Services** — Google Maps integration, geofencing
+### Mobile Applications
 
-### 🎨 Frontend Showcase
-- Weather Dashboard, Language Translator, Educational Forms, Modern UI Components
+| Project | Description | Stack |
+|---|---|---|
+| Smart Bike Management App | GPS tracking, rental system, and user authentication | Flutter, Google Maps API |
+| Currency Converter | Real-time exchange rates with offline caching | Flutter, REST API |
+| Location-Based Services | Geofencing and proximity alerts | Flutter, Firebase |
 
-👉 **View All Projects:** [GitHub Repositories](https://github.com/maahfuzdev?tab=repositories)
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=maahfuzdev&show_icons=true&theme=radical&count_private=true&line_height=27"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahfuzdev&layout=compact&theme=radical"/>
-
-</p>
+> View all 20+ repositories → [github.com/maahfuzdev](https://github.com/maahfuzdev?tab=repositories)
 
 ---
 
-## 🏆 Key Achievements
+## GitHub Stats
 
-✅ **20+ Real-World Projects** — Production-grade applications deployed  
-✅ **Full Stack Expertise** — MERN stack proficiency  
-✅ **Cross-Platform Development** — Flutter apps on iOS & Android  
-✅ **Cloud & Database** — AWS & Firebase certified knowledge  
-✅ **Open Source Contributions** — Active GitHub developer  
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maahfuzdev&show_icons=true&theme=default&count_private=true&hide_border=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maahfuzdev&layout=compact&theme=default&hide_border=true)
 
-## 📈 What I'm Currently Working On
-
-- 🔧 Advanced backend optimization & microservices architecture
-- 🚀 Deploying enterprise-scale MERN applications
-- 📚 Contributing to open-source projects
-- 💡 Learning Next.js and modern DevOps practices
+</div>
 
 ---
 
-<p align="center">
+## Currently Working On
 
-⭐ **"The beautiful thing about learning is that no one can take it away from you."**  
-— B.B. King
+- Microservices architecture with Node.js and Docker
+- Next.js server-side rendering and deployment pipelines
+- Open-source contributions and community projects
 
-</p>
+---
+
+## Let's Work Together
+
+I'm open to **full-time roles**, **freelance projects**, and **open-source collaborations** in full stack web development.
+
+📧 [maahfuz2021@gmail.com](mailto:maahfuz2021@gmail.com) · 🌐 [Portfolio](https://maahfuzdev.github.io/my-portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/md-mahfuzur-rahman-cse)
