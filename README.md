@@ -1,9 +1,26 @@
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  CAPSULE RENDER HEADER                   -->
+<!-- ══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<!-- Animated Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahfuz;Full+Stack+MERN+Developer;Flutter+%26+Mobile+App+Developer;Building+Smart+%26+Scalable+Apps)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Md.%20Mahfuzur%20Rahman&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Flutter%20%7C%20CSE%20@%20CUET&descAlignY=58&descSize=18)
 
-<!-- Visitor counter + followers -->
+</div>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  ANIMATED TYPING BANNER                  -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahfuz;Full+Stack+MERN+Developer;Flutter+%26+Mobile+App+Developer;Building+Smart+%26+Scalable+Apps;Open+to+Full-Time+%26+Freelance+Roles)](https://git.io/typing-svg)
+
+</div>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  BADGES ROW                               -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=maahfuzdev&label=Profile+Views&color=2D9CDB&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/maahfuzdev?label=Followers&style=flat-square&color=2D9CDB)
 ![GitHub stars](https://img.shields.io/github/stars/maahfuzdev?affiliations=OWNER&style=flat-square&color=F7B731&label=Total+Stars)
@@ -19,6 +36,24 @@
 
 ---
 
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  SPOTIFY NOW PLAYING                      -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<div align="center">
+
+### 🎵 Now Playing on Spotify
+
+[![Spotify](https://novatorem-maahfuzdev.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+
+> ⚙️ *Setup: Deploy [novatorem](https://github.com/novatorem/novatorem) on Vercel with your Spotify credentials and replace the URL above.*
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  ABOUT ME                                 -->
+<!-- ══════════════════════════════════════════════════════════ -->
 ## 👨‍💻 About Me
 
 ```yaml
@@ -33,6 +68,9 @@ status     : Open to full-time roles & freelance projects
 
 ---
 
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  TECH STACK                               -->
+<!-- ══════════════════════════════════════════════════════════ -->
 ## 🛠️ Tech Stack & Skills
 
 ### 🖥️ Frontend
@@ -74,6 +112,24 @@ status     : Open to full-time roles & freelance projects
 
 ---
 
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  WAKATIME STATS                           -->
+<!-- ══════════════════════════════════════════════════════════ -->
+## ⏱️ WakaTime Coding Stats
+
+<div align="center">
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=maahfuzdev&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@maahfuzdev)
+
+> ⚙️ *Setup: Create a free account at [wakatime.com](https://wakatime.com), install the IDE plugin, and replace `maahfuzdev` above with your WakaTime username.*
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  FEATURED PROJECTS                        -->
+<!-- ══════════════════════════════════════════════════════════ -->
 ## 🌟 Featured Projects
 
 ### 🧠 Enterprise Web Applications
@@ -181,7 +237,7 @@ status     : Open to full-time roles & freelance projects
 <summary><b>🏏 Cricket Score Keeper</b> — Live scoring with leaderboards</summary>
 <br/>
 
-> Real-time cricket scoring application with match history, live leaderboards, and player statistics.
+> Real-time cricket scoring app with match history, live leaderboards, and player statistics.
 
 **Key Features:**
 - ⚡ Live score updates via Socket.io
@@ -201,28 +257,6 @@ status     : Open to full-time roles & freelance projects
 
 </details>
 
-<details>
-<summary><b>🧺 Smart Laundry Solution</b> — IoT-integrated cloud management</summary>
-<br/>
-
-> IoT-powered laundry management system with real-time machine status and Firebase cloud sync.
-
-**Key Features:**
-- 📡 Real-time machine status via Firebase
-- 📲 Push notifications for cycle completion
-- 📆 Slot booking and scheduling
-- 📊 Usage analytics and billing dashboard
-
-**Tech Stack:**
-
-![MERN](https://img.shields.io/badge/MERN-Stack-20232A?style=flat-square)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
-![IoT](https://img.shields.io/badge/IoT-Integration-00979D?style=flat-square)
-
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](#)
-
-</details>
-
 ### 📱 Mobile Applications
 
 | App | Description | Tech | Status |
@@ -235,6 +269,9 @@ status     : Open to full-time roles & freelance projects
 
 ---
 
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  GITHUB ANALYTICS                         -->
+<!-- ══════════════════════════════════════════════════════════ -->
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -269,6 +306,75 @@ status     : Open to full-time roles & freelance projects
 
 ---
 
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  SNAKE ANIMATION                          -->
+<!-- ══════════════════════════════════════════════════════════ -->
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maahfuzdev/maahfuzdev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maahfuzdev/maahfuzdev/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/maahfuzdev/maahfuzdev/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+> ⚙️ *Setup: Create a GitHub Actions workflow in your profile repo (`.github/workflows/snake.yml`) to auto-generate the snake SVG. See setup guide below.*
+
+<details>
+<summary><b>🔧 Snake Animation Setup Guide</b></summary>
+<br/>
+
+1. Create a repo named exactly `maahfuzdev` (same as your GitHub username)
+2. Inside the repo, create `.github/workflows/snake.yml` with this content:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Run the workflow manually once → snake SVG will appear on your profile!
+
+</details>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  CURRENTLY WORKING ON                     -->
+<!-- ══════════════════════════════════════════════════════════ -->
 ## 🚀 Currently Working On
 
 - ⚙️ Microservices architecture with Node.js and Docker
@@ -277,6 +383,9 @@ status     : Open to full-time roles & freelance projects
 
 ---
 
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  FOOTER                                   -->
+<!-- ══════════════════════════════════════════════════════════ -->
 ## 💬 Let's Work Together
 
 I'm open to **full-time roles**, **freelance projects**, and **open-source collaborations** in full stack web development.
@@ -285,8 +394,8 @@ I'm open to **full-time roles**, **freelance projects**, and **open-source colla
 
 📧 [maahfuz2021@gmail.com](mailto:maahfuz2021@gmail.com) &nbsp;·&nbsp; 🌐 [Portfolio](https://maahfuzdev.github.io/my-portfolio/) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/md-mahfuzur-rahman-cse)
 
----
+<br/>
 
-*"The beautiful thing about learning is that no one can take it away from you." — B.B. King*
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
