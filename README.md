@@ -48,7 +48,7 @@
 ```yaml
 name       : Md. Mahfuzur Rahman
 role       : Full Stack Developer (MERN + Flutter)
-education  : B.Sc. CSE — CUET (CGPA: 3.15 / 4.00)
+education  : B.Sc. CSE — CUET 
 location   : Chittagong, Bangladesh
 focus      : Real-time Systems · REST APIs · Cloud Integration
 projects   : 20+ production-ready applications
