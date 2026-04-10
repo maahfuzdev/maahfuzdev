@@ -106,7 +106,7 @@ status     : Open to full-time roles & freelance projects
 
 [![wakatime](https://wakatime.com/badge/user/6013d2d0-99e2-42e6-a7d6-148bba563e01.svg)](https://wakatime.com/@maahfuzdev)
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=maahfuzdev&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@maahfuzdev)
+
 
 </div>
 
